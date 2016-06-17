@@ -12,12 +12,12 @@ In the style of Boy and Dog:
 ![boy-and-dog](basquiat/boy_and_dog.jpg)
 
 
-## Pablo Picasso in the style of The Scream
+## Pablo Picasso in the style of The Blue Room
 
 ![picasso-styled](picasso/picasso_styled.jpg)
 
 This was the original picture:  
 ![picasso](picasso/picasso.jpg)
 
-In the style of The Scream:  
+In the style of The Blue Room:  
 ![blue-room](picasso/blue-room.jpg)

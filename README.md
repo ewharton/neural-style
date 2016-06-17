@@ -20,4 +20,4 @@ This was the original picture:
 ![picasso](picasso/picasso.jpg)
 
 In the style of The Scream:  
-![the-scream](picasso/scream.jpg)
+![blue-room](picasso/blue-room.jpg)
